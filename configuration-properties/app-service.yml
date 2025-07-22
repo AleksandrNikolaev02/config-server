@@ -81,6 +81,8 @@ management:
           - health
           - info
           - metrics
+          - mappings
+          - refresh
   prometheus:
     metrics:
       export:

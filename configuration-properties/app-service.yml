@@ -3,7 +3,7 @@ server:
 
 app:
   kafka-file-sender:
-    enabled: false
+    enabled: true
 
 spring:
   application:

@@ -3,7 +3,7 @@ server:
 
 app:
   file-sender:
-    method: "client"
+    method: "feign_client"
 
 spring:
   application:

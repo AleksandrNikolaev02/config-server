@@ -3,7 +3,7 @@ server:
 
 app:
   file-sender:
-    method: "kafka"
+    method: "kafkaaaa"
 
 spring:
   application:

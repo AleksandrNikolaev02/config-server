@@ -3,7 +3,7 @@ server:
 
 app:
   file-sender:
-    method: "kafka"
+    method: "feign_wfjaWF"
 
 spring:
   application:

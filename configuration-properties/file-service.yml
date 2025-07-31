@@ -35,6 +35,8 @@ logging:
     org.springframework: INFO
     org.apache.kafka: INFO
     org.springframework.kafka: INFO
+    com.netflix.discovery: INFO
+    org.springframework.cloud.netflix.eureka: WARN
 
 topics:
   delete-file-request: delete-file-request

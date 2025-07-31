@@ -46,6 +46,8 @@ logging:
     org.springframework.kafka: INFO
     com.netflix.discovery: INFO
     org.springframework.cloud.netflix.eureka: WARN
+    org.apache.hc.client5.http: WARN
+    org.apache.hc.client5.http.wire: OFF
 
 topics:
   email-request: email-request

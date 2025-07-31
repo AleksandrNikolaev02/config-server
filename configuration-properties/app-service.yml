@@ -61,6 +61,8 @@ logging:
     org.springframework: INFO
     org.apache.kafka: INFO
     org.springframework.kafka: INFO
+    com.netflix.discovery: INFO
+    org.springframework.cloud.netflix.eureka: WARN
 topics:
   get-file-reply: get-file-reply
   get-email-reply: get-email-reply

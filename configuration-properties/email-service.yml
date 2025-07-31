@@ -44,6 +44,8 @@ logging:
     org.springframework: INFO
     org.apache.kafka: INFO
     org.springframework.kafka: INFO
+    com.netflix.discovery: INFO
+    org.springframework.cloud.netflix.eureka: WARN
 
 topics:
   email-request: email-request

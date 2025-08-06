@@ -75,6 +75,8 @@ topics:
   file-answers: file-answers
   email-request: email-request
   get-email: get-email
+  create-user: create-user-in-db
+  update-user: update-user-in-db
 
 eureka:
   client:
